@@ -1,4 +1,4 @@
-<p align="center" ><img alt="" src="https://i.ibb.co/xGk5wCs/Blue-and-White-Modern-Linkedin-Banner-1.png" width="auto" height="auto" /></p>
+<p align="center" ><img alt="" src="https://i.ibb.co/nLCvZDt/Blue-and-White-Modern-Linkedin-Banner-2.png" width="auto" height="auto" /></p>
 <h1 align="center">Hi 👋, I'm Mahmudur Rahman Rifat</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
